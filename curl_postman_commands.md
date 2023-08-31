@@ -2,7 +2,7 @@
 ### 1. To find the location of the curl program in your system “where curl” is used.
 ### 2. To find the version of curl “curl --version” is used.
 ### 3. GET -> To send a get request to a URL we just write curl followed by the url, it generates the file html file of the given url.
-![img_15.png](img_15.png)
+![img_3](https://github.com/Ansu-s/crul_and_postman_commands/assets/130679461/3e5618d0-ada9-495e-b6d0-ebf11e1580e1)
 ### 4. -o -> This saves the output from the get request to the url.
 ### 5. -I -> This gives the header of the given url.
 ![img_3.png](img_3.png)
